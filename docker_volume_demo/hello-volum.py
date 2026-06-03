@@ -1,4 +1,4 @@
-from pathlib import pathlib
+from pathlib import Path
 from datetime import datetime
 
 out = Path("/data/hello.txt")

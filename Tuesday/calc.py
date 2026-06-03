@@ -19,7 +19,7 @@ if __name__ == "__main__":
     myCalc = Calculator(10,20)
     print(myCalc.get_sum())
 
-    print(myCal.get_sum())
+    print(myCalc.get_sum())
     print(myCalc.get_difference())
     print(myCalc.get_product())
     print(myCalc.get_quotient())
